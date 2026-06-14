@@ -91,7 +91,7 @@ nav .wrap { display: flex; align-items: center; justify-content: space-between; 
 .section-head p { color: #5A6478; margin-top: 8px; font-size: 15px; }
 
 /* projects */
-.project-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
+.projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
 .project-card { background: #fff; border: 3px solid #2B3A55; border-radius: 16px; padding: 22px; }
 .project-card .tag { display: inline-block; font-size: 11px; font-weight: 600; padding: 4px 10px; border-radius: 999px; margin-bottom: 12px; }
 .tag.school { background: #E6F1FB; color: #185FA5; }
